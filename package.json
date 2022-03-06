@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "json-server db2.json"
+    "start": "json-server db.json"
   },
   "name": "users-api-server",
   "version": "1.0.0",
