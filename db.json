@@ -1,27 +1,29 @@
-[
-	{
-		"name" : "alaa",
-		"mail" : "@gmail.com",
-		"phone" : 123
-	},
-	{
-		"name" : "a",
-		"mail" : "a@gmail.com",
-		"phone" : 1
-	},
-	{
-		"name" : "x",
-		"mail" : "x@gmail.com",
-		"phone" : 23
-	},
-	{
-		"name" : "y",
-		"mail" : "yy@gmail.com",
-		"phone" : 0
-	},
-	{
-		"name" : "bb",
-		"mail" : "bb@gmail.com",
-		"phone" : 1222
-	}
-]
+{
+  "users": [
+    {
+      "name": "alaa",
+      "mail": "@gmail.com",
+      "phone": 123
+    },
+    {
+      "name": "a",
+      "mail": "a@gmail.com",
+      "phone": 1
+    },
+    {
+      "name": "x",
+      "mail": "x@gmail.com",
+      "phone": 23
+    },
+    {
+      "name": "y",
+      "mail": "yy@gmail.com",
+      "phone": 0
+    },
+    {
+      "name": "bb",
+      "mail": "bb@gmail.com",
+      "phone": 1222
+    }
+  ]
+}
